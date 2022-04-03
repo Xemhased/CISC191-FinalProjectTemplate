@@ -1,6 +1,15 @@
 package edu.sdccd.cisc191.template;
 import java.util.Scanner;
 
+/**
+ * This is a replacement for the Java array for february's Architect Level. That lab was already awarded the 4 points, but I wanted
+ * to keep everything under the same context.
+ *
+ * The way this works is by declaring a scanner and an array. The array's length is equal to the input on the scanner creating a dynamic array
+ * that allows me to do what the HandCoded application of ScoreLeaderBoard does but more efficiently, it then takes the amount of inputs based
+ * on the length and averages them.
+ */
+
 public class ArrayLeaderBoard {
     public static void main(String[] args) {
 

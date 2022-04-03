@@ -8,6 +8,11 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
+/**
+ * This is an adapted version of Gone Fishing from module 3, I decided to use it as an anchor to keep all the modules under the same context
+ * going forward. My JavaFX lab was awarded the 4 points, hence why I decided to adapt an already established project instead of doing it from scratch.
+ */
+
 public class Board extends Application {
     private Canvas gameCanvas;
     private ControllerBoard controller;

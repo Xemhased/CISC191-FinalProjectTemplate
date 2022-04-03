@@ -5,6 +5,10 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 
+/**
+ * This file writer creates a file named 'A file', unfortunately I couldn't make it work the way I wanted, but I decided
+ * leave it in as a proof of work.
+ */
 
 public class FileWriter {
 

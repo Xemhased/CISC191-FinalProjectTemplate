@@ -1,5 +1,9 @@
 package edu.sdccd.cisc191.template;
 
+/**
+ * Little cheeky class just for proof of work under module 6 -Interfaces-.
+ */
+
 interface LeaderBoardInterface{
 
     String Score = "Good";

@@ -4,6 +4,12 @@ import java.util.Scanner;
 public class GameLeaderBoard{
     public static void main(String[] args) {
 
+        /**
+         * This program declares a scanner and takes it's input in order to decide which 'if' statement to execute. It uses the variables
+         * declared under the previous super class Scores.java, and it's subclass FourthAttempt.java printing an output based on the average
+         * value from the input/s.
+         */
+
         System.out.println("From each attempt, keep track of the numbers of guesses left at the end of the game. ");
         System.out.println("Your score will be average according to your number of attempts. \n \nPlease enter how many " +
                 "times you've played the game.");
